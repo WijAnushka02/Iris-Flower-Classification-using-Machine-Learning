@@ -75,7 +75,6 @@ We used the well-known Iris Dataset which includes:
 ├── MyFirstMLProject.ipynb
 ├── README.md
 
-
 ---
 
 ### 🚀 Key Learning Outcomes
