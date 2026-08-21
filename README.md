@@ -1,5 +1,3 @@
-# My First ML Project
-
 ## 📌 Iris Flower Classification using Machine Learning
 
 ### 📖 Overview
